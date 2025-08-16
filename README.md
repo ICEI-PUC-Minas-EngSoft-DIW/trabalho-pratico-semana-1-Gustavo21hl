@@ -11,7 +11,7 @@ Matricula: 899524
 
 ## Tela de projeto no Replit
 
-[AtividadeReplit](images/atividade-Replit.png)
+![AtividadeReplit](images/atividade-Replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
